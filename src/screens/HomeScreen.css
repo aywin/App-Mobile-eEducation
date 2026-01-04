@@ -7,7 +7,7 @@
 }
 
 .dashboard-header {
-  background: linear-gradient(135deg, #1E3A8A 0%, #1e40af 100%);
+  background: linear-gradient(135deg, #c7cbd5 0%, #9a9da7 100%);
   color: white;
   padding: 16px 20px;
   display: flex;
@@ -304,6 +304,7 @@
     transform: translateY(-100%);
     opacity: 0;
   }
+
   to {
     transform: translateY(0);
     opacity: 1;
