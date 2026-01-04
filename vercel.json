@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm run web",
+  "devCommand": "npm run web",
+  "installCommand": "npm install",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
